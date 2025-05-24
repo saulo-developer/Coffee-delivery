@@ -1,2 +1,2 @@
-
-A Coffee Delivery project, wich contains Vite.js (React.js) and TypeScript.
+Coffee Delivery project
+Wich contains Vite.js (React.js) and TypeScript.
