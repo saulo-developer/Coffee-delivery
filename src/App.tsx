@@ -1,9 +1,9 @@
-import React from 'react';
-import ProductList from './components/ProductList';
-import ShoppingCartHeader from './components/ShoppingCartHeader';
-import CartDetails from './components/CartDetails';
-import AddressForm from './components/AddressForm';
-import { CartProvider } from './contexts/CartContext';
+
+import ProductList from './components/productList'
+import ShoppingCartHeader from './components/shoppingCartHeader'
+import CartDetails from './components/cartDetails';
+import AddressForm from './components/addressFrom';
+import { CartProvider } from './contexts/cardContext';
 
 function App() {
   return (
